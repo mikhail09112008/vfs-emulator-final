@@ -1,0 +1,7 @@
+cd /home/user
+ls
+rmdir docs
+rmdir /bin
+rmdir /nonexistent
+whoami
+uname

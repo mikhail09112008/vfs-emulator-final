@@ -1,0 +1,10 @@
+ls
+cd /home
+ls
+cd user
+ls
+cd docs
+ls
+cat /home/user/docs/notes.txt
+cat /home/user/readme.md
+cd /nonexistent

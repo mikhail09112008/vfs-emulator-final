@@ -1,0 +1,6 @@
+echo "Hello from script"
+ls
+ls "my dir"
+cd /tmp
+foobar
+ls

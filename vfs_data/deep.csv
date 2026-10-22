@@ -1,0 +1,9 @@
+path,type,content
+/,dir,
+/home,dir,
+/home/user,dir,
+/home/user/docs,dir,
+/home/user/docs/notes.txt,file,My notes
+/home/user/readme.md,file,# Profile
+/bin,dir,
+/bin/sh,file,binary_data_here

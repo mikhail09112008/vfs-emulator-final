@@ -1,0 +1,6 @@
+whoami
+uname
+cd /home
+ls
+whoami
+whoami extra_argument
